@@ -1,5 +1,13 @@
 ### Hi there 👋
-![Josh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Joshua-Williams8&show_icons=true&theme=highcontrast)
+![Josh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Joshua-Williams8&show_icons=true&count_private=true&theme=highcontrast) 
+
+🌱 I’m currently learning Spring Boot.
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Joshua-Williams8&repo=springblog&theme=highcontrast)](https://github.com/Joshua-Williams8/springblog)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joshua-Williams8&layout=compact&theme=highcontrast)](https://github.com/Joshua-Williams8/github-readme-stats)
+
 
 <!--
 **Joshua-Williams8/Joshua-Williams8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
