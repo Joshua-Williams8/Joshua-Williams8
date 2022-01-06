@@ -6,7 +6,9 @@
 
 - 🔭  I am currently working on a group capstone project for Codeup, called Audio Space.
 
-- 🌱  I am currently learning Spring Boot.
+- 🌱  I am currently learning Java Mocking.
+
+- Recent Class Project, in Spring Boot.
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Joshua-Williams8&repo=springblog&theme=highcontrast)](https://github.com/Joshua-Williams8/springblog)
 <h3 align="left">How to reach me:</h3>
